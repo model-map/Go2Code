@@ -9,6 +9,7 @@ It opens the current folder in Finder in VsCode just by a simple click.
 
 ## How to use
 
+- Go in Finder and Control+Click to open the file. This will ensure it opens in the future too.
 - Copy the app to the Application directory。
 - Hold down the Command key and drag it to the toolbar.
 - Click the icon, Vscode will open with current directory.
